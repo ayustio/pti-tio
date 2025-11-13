@@ -54,6 +54,17 @@ Dengan semangat “Teknologi untuk Aksi”, seminar ini bertujuan mendorong maha
       description:
       "Seminar teknologi terkini mengenai Internet of Things bersama pakar nasional.",
     ),
+    Event(
+      title: "Workshop AI & IoT",
+      date: "25 November 2025",
+      location: "Lab Komputer Elektro",
+      image: "assets/workshop.jpg",
+      description:
+      "Workshop premium membahas penerapan AI dan IoT dengan studi kasus nyata. Peserta akan mendapat sertifikat resmi.",
+      isPaid: true,
+      price: 15000,
+    ),
+
   ];
 
   @override
